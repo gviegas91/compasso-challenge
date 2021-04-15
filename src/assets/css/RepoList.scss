@@ -1,0 +1,29 @@
+.repositories {
+  .repositories-list {
+    border: 0;
+  }
+
+  .repositories-title {
+    text-transform: capitalize;
+  }
+
+  .repositories-item {
+    padding: 20px 0;
+  }
+
+  .repositories-detail {
+    display: flex;
+    overflow: hidden;
+  }
+
+  .repositories-badge {
+    color: #fff;
+    font-size: 12px;
+    margin: 0 5px 0 0;
+    padding: 5px 10px;
+  }
+
+  .repositories-icon {
+    margin: 0 0 0 4px;
+  }
+}
